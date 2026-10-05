@@ -1,11 +1,11 @@
 @font-face {
     font-family: titleFont;
-    src: url(Verdana-Bold.ttf);
+    src: url(fonts/Verdana-Bold.ttf);
 }
 
 @font-face {
     font-family: buttonFonts;
-    src: url(CursedTimerUlil.ttf);
+    src:url(fonts/CursedTimerUlil.ttf);
 }
 
 
